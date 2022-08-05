@@ -1,0 +1,16 @@
+.pub/*
+.pub-cache/*
+.dart_tool/*
+.idea/*
+.vscode/*
+ios/*
+android/*
+linux/*
+build/*
+
+lib/generated_plugin_registrant.dart
+.packages
+.flutter-plugins*
+*.iml
+*.lock
+.metadata
